@@ -36,6 +36,11 @@ to next java run.*
 
 ### CLI
 ![Snyk CLI Reachable Vulnerabilities](CLI_reachable.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvchaudh3%2Faws-vulnerable-code-without-buildspec.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvchaudh3%2Faws-vulnerable-code-without-buildspec?ref=badge_shield)
 
 ### Snyk UI
 ![Snyk UI Reachable Vulnerabilities](UI_reachable.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvchaudh3%2Faws-vulnerable-code-without-buildspec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvchaudh3%2Faws-vulnerable-code-without-buildspec?ref=badge_large)
